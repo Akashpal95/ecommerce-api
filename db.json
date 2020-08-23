@@ -1,6 +1,25 @@
+[{
+  "name" : "lamp",
+  "description" : "Something that gives light.",
+  "price" : "3000",
+  "rating" : 3
+},
+{
+  "name" : "lamp",
+  "description" : "Something that gives light.",
+  "price" : "3000",
+  "rating" : 3
+},
+{
+  "name" : "lamp",
+  "description" : "Something that gives light.",
+  "price" : "3000",
+  "rating" : 3
+},
 {
   "name" : "lamp",
   "description" : "Something that gives light.",
   "price" : "3000",
   "rating" : 3
 }
+]
