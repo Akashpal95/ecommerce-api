@@ -7,22 +7,22 @@
       "price" : 3000
     },
     { 
-      "name" : "lamp",
-      "description" : "Source of light",
-      "rating" : 3,
-      "price" : 3000
+      "name" : "Bag",
+      "description" : "A bag is a kind of soft container. It can hold or carry things. It may be made from cloth, leather, plastic, or paper. A small bag that can be carried with a single hand is sometimes called a handbag, purse, or pocketbook.",
+      "rating" : 4,
+      "price" : 2000
     },
     { 
-      "name" : "lamp",
-      "description" : "Source of light",
+      "name" : "Camera",
+      "description" : "A camera is an optical instrument used to record images. At their most basic, cameras are sealed boxes (the camera body) with a small hole (the aperture) that allow light in to capture an image on a light-sensitive surface (usually photographic film or a digital sensor).",
       "rating" : 3,
-      "price" : 3000
+      "price" : 35000
     },
     { 
-      "name" : "lamp",
-      "description" : "Source of light",
-      "rating" : 3,
-      "price" : 3000
+      "name" : "iPhone",
+      "description" : "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "rating" : 5,
+      "price" : 70000
     }
   ]
 }
